@@ -23,7 +23,7 @@
     "lucide-react": "^0.447.0",
     "next": "^14.2.5",
     "next-themes": "^0.3.0",
-    "permissionless": "^0.1.26",
+    "permissionless": "^0.2.57",
     "react": "^18",
     "react-dom": "^18",
     "siwe": "^2.3.2"
